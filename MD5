@@ -1,4 +1,4 @@
-b8e8e048851b6b4c75e0c61f44658b90 *DESCRIPTION
+a990c04eef1d226ea1239b00d34503ba *DESCRIPTION
 ea275cc48000e6708d833760c0b9a944 *NAMESPACE
 5e9d6f37346d1f8e3488bb93e7a914a1 *R/qoi-package.R
 43412ef8b2eebc7341a236148318a9ef *R/readQOI.R
@@ -13,7 +13,7 @@ c2f8f473c7634156ce15c4c69b8ae6c1 *inst/extdata/testcard_rgba.qoi
 0eba4f1aba14440033629893c86d1173 *man/Rlogo_RGBA.Rd
 923c142b8e946c71f81ad739f946a145 *man/readQOI.Rd
 7dac69adc21a56aa83d8aadfa7f01608 *man/writeQOI.Rd
-7b59fec9af3e50b4caf63d151c98ea84 *src/init.c
+dbafebc1e4a3d1bfef2f298a44f39988 *src/init.c
 678a3b98287d331427c6b4a3e4aad5ba *src/qoi.h
 66c4efc87e726a159fc4a32474aba42d *src/read.c
 7c607a682eab27c90ec3cdc8359ac34b *src/write.c
